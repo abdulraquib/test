@@ -17,5 +17,9 @@ public class Test {
 		System.out.println("Test 8");
 		
 	}
+	
+	public void newFunct(){
+		return;
+	}
 
 }
