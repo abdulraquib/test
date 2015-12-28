@@ -2,8 +2,9 @@ package com.raq.test;
 
 public class Test {
 	
-	public static void testHello(){
-		System.out.println("testHello-commit8");		
+	public static int sum(int a, int b){
+		return a + b;
+		
 	}
 	//testing commit further
 
@@ -11,7 +12,6 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Test 8");
 		
-
 	}
 
 }
