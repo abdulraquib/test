@@ -3,6 +3,7 @@ package com.raq.test;
 public class Test {
 	
 	public static int sum(int a, int b){
+		System.out.println("a + b" = a + b);
 		return a + b;
 		
 	}
